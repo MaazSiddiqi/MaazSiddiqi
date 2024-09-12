@@ -3,9 +3,9 @@
 just an aspiring software sorcerer—currently casting spells in javascript and summoning bugs
 
 some cool things I've been up to:
-- 💜 co-chair @ hack western 10
-- 💻 building a programming language for fun
-- 🚀 launched a course review platform for western university
+- 💜 co-chair @ [hack western 10](https://github.com/hackwestern/hackwestern)
+- 💻 building a [programming language](https://github.com/MaazSiddiqi/zlang) for fun
+- 🚀 launched a [course review platform](https://github.com/Western-Rank/western-rank) for western university
 
 <!--
 **MaazSiddiqi/MaazSiddiqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
