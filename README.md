@@ -4,7 +4,7 @@ just an aspiring software sorcerer—currently casting spells in javascript and 
 
 some cool things I've been up to:
 - 💜 co-chair @ [hack western 10](https://github.com/hackwestern/hackwestern)
-- 💻 building a [programming language](https://github.com/MaazSiddiqi/zlang) for fun
+- 💻 building a [programming language](https://github.com/MaazSiddiqi/zlang)
 - 🚀 launched a [course review platform](https://github.com/Western-Rank/western-rank) for western university
 
 <!--
