@@ -2,6 +2,8 @@
 
 just an aspiring software sorcerer—currently casting spells in javascript and summoning bugs
 
+at the moment: exploring keyboard-driven calendars (check it out (here)[https://project-kalendar.vercel.app/]!)
+
 some cool things I've been up to:
 - 💜 co-chair @ [hack western 10](https://github.com/hackwestern/hackwestern)
 - 💻 building a [programming language](https://github.com/MaazSiddiqi/zlang)
